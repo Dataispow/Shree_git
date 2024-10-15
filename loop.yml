@@ -14,3 +14,4 @@
         state: present
         update_cache: yes
       loop: "{{package_list}}"
+end
